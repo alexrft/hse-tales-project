@@ -7,7 +7,7 @@
 Источник сказок: [http://www.fairy-tales.su/](http://www.fairy-tales.su/)
 
 **Как запустить?** 
-*вариант 1. со скачиванием:* запустить `tales-loader.py`
+*вариант 1. со скачиванием:* `tales-loader.py` :arrow_right: →  ff ⇒⇨ ➡➨➛ ➜ ➔ ➝ ➞→
 
 ### Часть первая :crystal_ball:
 
