@@ -1,4 +1,4 @@
-# hse-tales-project
+# Hse-tales-project
 
 ## Игра
 В игре нужно угадать народность по преъявляемым n-граммам (последовательности из n слов) из текстов ее сказок.
@@ -10,6 +10,8 @@
 *вариант 1. со скачиванием:* `tales-loader.py` ➜ ожидать около получаса ➜`tales-game.py` 
 
 *вариант 2. с папкой texts-in-subdirs на диске* `tales-game.py`
+
+![](tales-gameplay.gif)
 
 ### График 1 :crystal_ball:
 
