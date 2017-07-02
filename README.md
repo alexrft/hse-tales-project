@@ -7,6 +7,7 @@
 Источник сказок: [http://www.fairy-tales.su/](http://www.fairy-tales.su/)
 
 **Как запустить?** 
+
 *вариант 1. со скачиванием:* `tales-loader.py` ➜ ожидать около получаса ➜`tales-game.py` 
 
 *вариант 2. с папкой texts-in-subdirs на диске* `tales-game.py`
